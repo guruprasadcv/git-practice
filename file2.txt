@@ -1,1 +1,2 @@
 updating file2 in remote server
+updating again to demonstrate git pull command
