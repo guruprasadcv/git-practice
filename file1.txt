@@ -4,3 +4,5 @@ adding my second line
 added new line for git tortoise practice
 
 added new line in file1, guru-dev branch
+
+addes new line in master-branch
